@@ -1,0 +1,452 @@
+[
+    {
+        "title": "The Rise of AI Agents in 2026",
+        "slug": "rise-of-ai-agents-2026",
+        "tags": [
+            "AI",
+            "Tech",
+            "Future"
+        ],
+        "body": "AI agents are no longer just chatbots. They are autonomous entities capable of executing complex tasks, from coding to financial trading. In 2026, we are seeing the first wave of 'Agentic Workflows' replacing traditional SaaS tools. Companies are now hiring 'Agent Orchestrators' instead of just prompt engineers."
+    },
+    {
+        "title": "Why Rust is the New Python for AI",
+        "slug": "rust-vs-python-ai-2026",
+        "tags": [
+            "Coding",
+            "Rust",
+            "AI"
+        ],
+        "body": "Python has ruled AI for decades, but Rust is catching up. With the need for high-performance inference at the edge, Rust's memory safety and speed are becoming non-negotiable. New frameworks like 'Candle' are challenging PyTorch's dominance in production environments."
+    },
+    {
+        "title": "The End of the 30-Year Mortgage",
+        "slug": "end-of-30-year-mortgage",
+        "tags": [
+            "Finance",
+            "Real Estate",
+            "Economy"
+        ],
+        "body": "With interest rates stabilizing at a higher baseline, the traditional 30-year fixed mortgage is becoming a relic. New financial products offering equity sharing and flexible terms are gaining traction. Is this the future of home ownership, or a trap?"
+    },
+    {
+        "title": "Bangalore's Water Crisis: A Tech Solution?",
+        "slug": "bangalore-water-crisis-tech",
+        "tags": [
+            "Bangalore",
+            "Environment",
+            "Tech"
+        ],
+        "body": "Bangalore's water woes are well known. But a new wave of startups is using IoT and AI to manage groundwater extraction and distribution. Can technology save the Garden City from drying up, or is it too little too late?"
+    },
+    {
+        "title": "UPI Goes Global: 2025 Update",
+        "slug": "upi-global-expansion-2025",
+        "tags": [
+            "Fintech",
+            "India",
+            "UPI"
+        ],
+        "body": "UPI is now accepted in France, UAE, and Singapore. But the real game-changer is the integration with the US banking system. We explore how Indian travelers can now pay for their Starbucks in NYC using GPay without forex cards."
+    },
+    {
+        "title": "Web3 Gaming: Finally Fun?",
+        "slug": "web3-gaming-2025-review",
+        "tags": [
+            "Gaming",
+            "Web3",
+            "Crypto"
+        ],
+        "body": "Play-to-earn is dead. Play-and-earn is the new mantra. We review the top AAA titles built on blockchain that actually feel like games. No more grinding for tokens; just pure gameplay with asset ownership."
+    },
+    {
+        "title": "The 4-Day Work Week: India Adoption",
+        "slug": "4-day-work-week-india",
+        "tags": [
+            "Work",
+            "Culture",
+            "India"
+        ],
+        "body": "While the West adopts the 4-day work week, Indian startups are split. Some claim productivity boosts, while others argue it's impossible in a service economy. We talk to founders and employees to get the real picture."
+    },
+    {
+        "title": "Electric Cars: The Resale Value Crash",
+        "slug": "ev-resale-value-crash",
+        "tags": [
+            "Auto",
+            "EV",
+            "Finance"
+        ],
+        "body": "Early adopters of EVs are facing a rude shock: their cars are worth 50% less after just 3 years. Battery degradation fears and rapid tech obsolescence are crashing the second-hand EV market. Is leasing the only safe option?"
+    },
+    {
+        "title": "React Server Components: The Good, Bad, Ugly",
+        "slug": "react-server-components-review",
+        "tags": [
+            "Coding",
+            "React",
+            "WebDev"
+        ],
+        "body": "RSC has changed how we build React apps. But is the complexity worth it? We dive deep into the caching pitfalls and the 'use client' confusion that still plagues developers in late 2025."
+    },
+    {
+        "title": "The Return of Physical Media",
+        "slug": "return-of-physical-media",
+        "tags": [
+            "Tech",
+            "Culture",
+            "Movies"
+        ],
+        "body": "Streaming services keep deleting content. In response, 4K Blu-ray sales are spiking. Is physical media making a vinyl-like comeback? We look at the collectors preserving cinema in the digital age."
+    },
+    {
+        "title": "Nifty 50 at 30,000: What's Next?",
+        "slug": "nifty-50-target-2026",
+        "tags": [
+            "Finance",
+            "Stock Market",
+            "India"
+        ],
+        "body": "The Indian bull run continues. But with valuations stretching, analysts are cautious. We analyze the sectors likely to lead the next leg of the rally: Manufacturing, Defense, or Green Energy?"
+    },
+    {
+        "title": "TypeScript 6.0 Features You Missed",
+        "slug": "typescript-6-features",
+        "tags": [
+            "Coding",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "body": "TypeScript 6.0 just dropped. The new 'super-inference' engine and native pattern matching are game changers. Here is a breakdown of the features that will actually save you time."
+    },
+    {
+        "title": "Why I Switched from VS Code to Zed",
+        "slug": "vscode-vs-zed-2025",
+        "tags": [
+            "Coding",
+            "Tools",
+            "Productivity"
+        ],
+        "body": "VS Code is great, but it's getting bloated. Zed is fast, collaborative, and built for the AI era. Here is my experience switching my daily driver after 5 years."
+    },
+    {
+        "title": "The IPO Frenzy of 2025",
+        "slug": "india-ipo-frenzy-2025",
+        "tags": [
+            "Finance",
+            "IPO",
+            "India"
+        ],
+        "body": "From Ola Electric to Swiggy, 2025 has been the year of the IPO. But how are these stocks performing post-listing? We analyze the winners and the wealth destroyers."
+    },
+    {
+        "title": "Digital Rupee (e-Rupee): A Flop?",
+        "slug": "digital-rupee-adoption",
+        "tags": [
+            "Fintech",
+            "CBDC",
+            "India"
+        ],
+        "body": "The RBI's CBDC pilot has been running for two years. Yet, UPI remains king. Why hasn't the e-Rupee taken off? Is it a solution looking for a problem?"
+    },
+    {
+        "title": "Sustainable Fashion in India: Greenwashing?",
+        "slug": "sustainable-fashion-india-truth",
+        "tags": [
+            "Lifestyle",
+            "Fashion",
+            "Environment"
+        ],
+        "body": "Every brand claims to be sustainable now. But are they? We investigate the supply chains of top Indian 'slow fashion' brands to separate the eco-friendly from the eco-scammers."
+    },
+    {
+        "title": "The Death of the Junior Developer?",
+        "slug": "junior-developer-jobs-ai",
+        "tags": [
+            "Coding",
+            "Career",
+            "AI"
+        ],
+        "body": "With AI writing boilerplate code, entry-level jobs are vanishing. How can junior devs survive? The answer lies in becoming 'AI-augmented architects' rather than just coders."
+    },
+    {
+        "title": "Space Tech India: Beyond Chandrayaan",
+        "slug": "india-space-tech-startups",
+        "tags": [
+            "Tech",
+            "Space",
+            "India"
+        ],
+        "body": "ISRO opened the door, and private startups are rushing in. From Skyroot to Agnikul, we profile the companies building India's SpaceX."
+    },
+    {
+        "title": "Credit Cards for Travel: 2025 Guide",
+        "slug": "best-travel-credit-cards-2025",
+        "tags": [
+            "Finance",
+            "Travel",
+            "Credit Cards"
+        ],
+        "body": "Planning a trip to Europe? Don't use your debit card. We rank the top 5 credit cards with zero forex markup and the best lounge access networks for 2025."
+    },
+    {
+        "title": "Kubernetes is Still Hard",
+        "slug": "kubernetes-complexity-2025",
+        "tags": [
+            "DevOps",
+            "Cloud",
+            "Coding"
+        ],
+        "body": "It's 2025, and K8s is still a beast. While tools like 'K8s-GPT' help, the complexity of managing clusters hasn't gone away. Is serverless finally ready to kill Kubernetes?"
+    },
+    {
+        "title": "The Rise of 'Dumb' Phones",
+        "slug": "dumb-phone-trend-2025",
+        "tags": [
+            "Tech",
+            "Lifestyle",
+            "Mental Health"
+        ],
+        "body": "Gen Z is ditching smartphones for Nokias. The 'digital detox' movement is real. We tried using a feature phone for a week in Bangalore. Here is what happened."
+    },
+    {
+        "title": "Investing in Gold: SGB vs Digital Gold",
+        "slug": "sgb-vs-digital-gold-2025",
+        "tags": [
+            "Finance",
+            "Investing",
+            "Gold"
+        ],
+        "body": "Sovereign Gold Bonds (SGB) offer 2.5% interest, but liquidity is an issue. Digital Gold is easy but taxed heavily. Which is the better hedge against inflation?"
+    },
+    {
+        "title": "Bun vs Node vs Deno: The 2026 Verdict",
+        "slug": "bun-node-deno-benchmark-2026",
+        "tags": [
+            "Coding",
+            "JavaScript",
+            "Backend"
+        ],
+        "body": "Node.js 24 is fast. Bun 2.0 is faster. Deno is... secure. We benchmark the three runtimes on real-world workloads to see which one deserves your backend."
+    },
+    {
+        "title": "The State of Indian 5G",
+        "slug": "india-5g-performance-review",
+        "tags": [
+            "Tech",
+            "Telecom",
+            "India"
+        ],
+        "body": "Jio and Airtel promised blazing speeds. But inside your apartment, the signal is still 4G. We analyze the state of 5G infrastructure and why 'True 5G' is still a myth for many."
+    },
+    {
+        "title": "Why I'm Bullish on Ethereum in 2026",
+        "slug": "ethereum-prediction-2026",
+        "tags": [
+            "Crypto",
+            "Finance",
+            "Ethereum"
+        ],
+        "body": "Solana is fast, but Ethereum is the settlement layer of the internet. With Layer 2s scaling effectively, ETH is poised for a massive institutional adoption cycle."
+    },
+    {
+        "title": "Micro-SaaS Ideas for India",
+        "slug": "micro-saas-ideas-india-2025",
+        "tags": [
+            "Coding",
+            "Startup",
+            "SaaS"
+        ],
+        "body": "India is a price-sensitive market, but niche B2B problems are waiting to be solved. Here are 5 Micro-SaaS ideas you can build this weekend for the Indian SMB sector."
+    },
+    {
+        "title": "The Cost of Living in Mumbai vs Delhi",
+        "slug": "mumbai-vs-delhi-cost-living",
+        "tags": [
+            "Finance",
+            "Lifestyle",
+            "India"
+        ],
+        "body": "Rent in Mumbai or Pollution in Delhi? We compare the cost of living index for 2025 across India's two biggest metros. The winner might surprise you."
+    },
+    {
+        "title": "Flutter vs React Native: The War is Over",
+        "slug": "flutter-vs-react-native-2025",
+        "tags": [
+            "Coding",
+            "Mobile",
+            "Dev"
+        ],
+        "body": "With the release of Impeller, Flutter fixed its jank. But React Native's new architecture is blazing fast. In 2025, the choice isn't about performance; it's about ecosystem."
+    },
+    {
+        "title": "Smart Home Tech in India: Worth it?",
+        "slug": "smart-home-india-review",
+        "tags": [
+            "Tech",
+            "IoT",
+            "Home"
+        ],
+        "body": "Alexa, turn on the geyser. Smart switches and bulbs are cheap now. But do they actually save energy, or are they just a gimmick? We audited a fully automated 3BHK."
+    },
+    {
+        "title": "Mutual Funds: Active vs Passive in 2025",
+        "slug": "active-vs-passive-funds-india",
+        "tags": [
+            "Finance",
+            "Investing",
+            "Mutual Funds"
+        ],
+        "body": "70% of active large-cap funds failed to beat the Nifty 50 last year. Is it time to shift your entire portfolio to Index Funds? We look at the data."
+    },
+    {
+        "title": "The Future of CSS: Tailwind vs StyleX",
+        "slug": "tailwind-vs-stylex-2025",
+        "tags": [
+            "Coding",
+            "CSS",
+            "WebDev"
+        ],
+        "body": "Tailwind won the last war. But Meta's StyleX is challenging the utility-first paradigm with compile-time atomic CSS. Which one scales better for large teams?"
+    },
+    {
+        "title": "Gaming Laptops Under ₹80k",
+        "slug": "best-gaming-laptops-under-80k",
+        "tags": [
+            "Tech",
+            "Gaming",
+            "Hardware"
+        ],
+        "body": "You don't need to spend a lakh to play AAA games. We review the best budget gaming beasts with RTX 5050 GPUs that can handle Cyberpunk 2077 at 60fps."
+    },
+    {
+        "title": "Freelancing in 2025: Upwork is Dead",
+        "slug": "freelancing-platforms-2025",
+        "tags": [
+            "Career",
+            "Freelancing",
+            "Work"
+        ],
+        "body": "The race to the bottom on Upwork is real. High-value freelancers are moving to specialized communities and direct outreach. Here is how to find clients without bidding wars."
+    },
+    {
+        "title": "The Psychology of FIRE (Financial Independence)",
+        "slug": "psychology-of-fire-movement",
+        "tags": [
+            "Finance",
+            "FIRE",
+            "Psychology"
+        ],
+        "body": "Saving 50% of your income is hard. But the boredom of early retirement is harder. We explore the mental health aspects of the FIRE movement that no one talks about."
+    },
+    {
+        "title": "PostgreSQL vs MongoDB in 2026",
+        "slug": "postgres-vs-mongo-2026",
+        "tags": [
+            "Coding",
+            "Database",
+            "Backend"
+        ],
+        "body": "Postgres now handles JSON better than Mongo. Is there any reason to use a NoSQL database in 2026? We argue that Postgres is the only database you'll ever need."
+    },
+    {
+        "title": "The Indian EV Charging Nightmare",
+        "slug": "ev-charging-infrastructure-india",
+        "tags": [
+            "Auto",
+            "EV",
+            "India"
+        ],
+        "body": "We drove from Bangalore to Goa in an EV. It was an adventure, but not in a good way. Broken chargers, long queues, and range anxiety. The infra has a long way to go."
+    },
+    {
+        "title": "Why I Deleted Instagram",
+        "slug": "deleting-instagram-benefits",
+        "tags": [
+            "Lifestyle",
+            "Social Media",
+            "Mental Health"
+        ],
+        "body": "The algorithm is designed to make you unhappy. I quit Instagram for 30 days. My focus improved, my anxiety dropped, and I realized I didn't miss anything."
+    },
+    {
+        "title": "GoLang: Still the King of Microservices?",
+        "slug": "golang-microservices-2025",
+        "tags": [
+            "Coding",
+            "Go",
+            "Backend"
+        ],
+        "body": "Go's simplicity is its superpower. In an era of complex AI stacks, Go remains the boring, reliable choice for high-throughput backend services."
+    },
+    {
+        "title": "Peer-to-Peer Lending: High Risk, High Reward",
+        "slug": "p2p-lending-india-review",
+        "tags": [
+            "Finance",
+            "Investing",
+            "P2P"
+        ],
+        "body": "Apps like Cred Mint and 12% Club offer double-digit returns. But default rates are rising. Is P2P lending a legitimate asset class or just glorified gambling?"
+    },
+    {
+        "title": "The Apple Vision Pro: 2 Years Later",
+        "slug": "apple-vision-pro-review-2025",
+        "tags": [
+            "Tech",
+            "VR",
+            "Apple"
+        ],
+        "body": "The hype has settled. Is the Vision Pro a productivity tool or a dust collector? We look at the killer apps that have finally emerged for spatial computing."
+    },
+    {
+        "title": "Building a Personal Brand as a Developer",
+        "slug": "developer-personal-brand-guide",
+        "tags": [
+            "Career",
+            "Coding",
+            "Marketing"
+        ],
+        "body": "Code isn't enough. In 2025, visibility is currency. We share a roadmap for developers to build an audience on Twitter and LinkedIn without being cringe."
+    },
+    {
+        "title": "Tax Harvesting in India: A Guide",
+        "slug": "tax-harvesting-india-guide",
+        "tags": [
+            "Finance",
+            "Tax",
+            "Investing"
+        ],
+        "body": "Don't pay more tax than you have to. We explain how to use Tax Loss Harvesting to offset your capital gains and save thousands before March 31st."
+    },
+    {
+        "title": "Linux on the Desktop: Year of the Linux?",
+        "slug": "linux-desktop-2025-review",
+        "tags": [
+            "Tech",
+            "Linux",
+            "OS"
+        ],
+        "body": "With Windows 12 becoming more ad-infested, gamers and devs are flocking to Linux. SteamOS changed the game. Is it finally time to ditch Windows?"
+    },
+    {
+        "title": "The Future of UPI: Credit on UPI",
+        "slug": "credit-on-upi-impact",
+        "tags": [
+            "Fintech",
+            "UPI",
+            "Credit"
+        ],
+        "body": "Linking credit cards to UPI is a masterstroke. It combines the convenience of QR codes with the liquidity of credit. Will this kill the physical plastic card forever?"
+    },
+    {
+        "title": "Why I'm Learning COBOL in 2025",
+        "slug": "learning-cobol-2025",
+        "tags": [
+            "Coding",
+            "Career",
+            "Legacy"
+        ],
+        "body": "Banks still run on COBOL. The experts are retiring. Rates for COBOL contractors are skyrocketing. Sometimes, the best career move is to go backward."
+    }
+]
