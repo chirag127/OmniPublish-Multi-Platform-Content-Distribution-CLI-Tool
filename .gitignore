@@ -1,25 +1,43 @@
-# Dependencies
+# Dependency and Build Artifacts
 node_modules/
-
-# Environment
-.env
-
-# Build
 dist/
-public/
-
-# Logs
+build/
+.turbo/
+.next/
+coverage/
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+*.tmp
 
-# OS
-.DS_Store
-Thumbs.db
+# TypeScript / JavaScript Specific
+.tsbuildinfo
+/coverage
+/dist
+/out
 
-# Editor
+# Editor/IDE Configuration
 .vscode/
 .idea/
 *.swp
-*.swo
+
+# Node/NPM Specific
+/npm-debug.log*
+/yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Configuration/Secrets
+.env
+.env.local
+
+# Static site specific (If SSG output is generated)
+/public
+/out
+
+# ContentFlow Specific Artifacts (Assuming a TypeScript/Node backend for the orchestration)
+/data/cache
+/publish_logs
+
+# Build caches
+.cache/
