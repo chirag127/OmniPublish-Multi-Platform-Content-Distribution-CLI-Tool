@@ -1,73 +1,41 @@
---- 
-name: Feature / Fix / Refactor Pull Request
-about: Submit a structured proposal for integration into the OmniPublisher core engine.
-title: "[TYPE]: Concise, high-impact summary of changes (e.g., [FEAT]: Add Dev.to API V2 integration)"
-labels: ['needs review', 'typescript']
-assignees: ['chirag127']
----
+# Pull Request Template for OmniPublish-Multi-Platform-Content-Distribution-Node-CLI-Tool
+## Overview of Changes:
+* Describe the changes made in this pull request.
 
-## ⚡ Apex PR Submission Protocol
+## Related Issues:
+* List the related issues, if any. Use the format: ` Fixes #<issue_number>`, `Resolves #<issue_number>`, or `Related to #<issue_number>`.
 
-Welcome, Architect. This Pull Request must adhere to the high-velocity, zero-defect standard. Before merging, all checklist items must be validated.
+## Types of Changes:
+* **Bug Fix:** Describe the bug fix and how it was resolved.
+* **New Feature:** Describe the new feature and its usage.
+* **Code Refactoring:** Describe the code refactoring and its benefits.
+* **Documentation Update:** Describe the documentation updates made.
+* **Testing Update:** Describe the testing updates made.
+* **Other:** Describe any other changes made.
 
-### 🔗 Related Artifacts
+## Testing and Verification:
+* Describe the testing and verification process for the changes made.
+* Include any relevant test cases or scenarios.
 
-Please link the relevant issue(s) this PR addresses. Use keywords like `Closes #XXX`, `Fixes #XXX`, or `Relates to #XXX`.
+## Checklist:
+* [ ] I have reviewed the Apex Technical Authority standards and ensured compliance.
+* [ ] I have tested the changes locally and verified their functionality.
+* [ ] I have updated the documentation accordingly.
+* [ ] I have included relevant test cases and scenarios.
+* [ ] I have checked for any potential security vulnerabilities.
 
----
+## Additional Context:
+* Provide any additional context or information that may be relevant to the pull request.
 
-## 🚀 Overview & Impact
+## Screenshots or Videos (Optional):
+* Include any relevant screenshots or videos to demonstrate the changes made.
 
-Provide a detailed summary of the changes and the expected impact on the system.
+## Verification Commands (Optional):
+* Include any verification commands that can be used to test the changes.
 
-**Description:**
-[Detailed explanation of the problem solved, or the new capability introduced.]
+This pull request is intended to [choose one: fix a bug, add a new feature, improve performance, refactor code, update documentation, etc.].
 
-**Changes in Behavior (If Applicable):**
-[Describe any new configuration, command-line flags, or breaking changes.]
+### Related PRs (Optional):
+* List any related PRs, if applicable.
 
----
-
-## 🛠️ Technical Implementation Details
-
-### Architecture & Modularity
-This system follows the **Modular Monolith** pattern, ensuring clean separation of publishing adapters (Dev.to, Medium, etc.) using TypeScript.
-
-*   **Design Decision:** [Briefly explain the primary technical approach taken (e.g., "Implemented a new `HashnodeAdapter` conforming to the `ContentPublisher` interface").]
-*   **Modules/Files Affected:** [List the primary files or directories modified.]
-*   **Dependency Changes:** [List any new or removed dependencies in `package.json`.]
-
-### Testing Strategy
-*   **New Test Coverage:** [Describe the new unit tests (Vitest) or end-to-end tests (Playwright) added.]
-*   **Verification Command:** `npm run test` or `npm run integration:test`
-
----
-
-## ✅ Pre-Merge Checklist (Mandatory Gate)
-
-Ensure all development standards have been met.
-
-### Code Quality & Standards
-- [ ] **Code Complete:** The feature is fully implemented and tested locally.
-- [ ] **Type Safety:** All new TypeScript code is strictly typed and passes `tsc --noEmit`.
-- [ ] **Linting & Formatting:** Code adheres to the established **Biome** standards (`npm run format:check` and `npm run lint`).
-- [ ] **Error Handling:** Robust error handling is implemented for all external API calls and asynchronous operations.
-- [ ] **Documentation Updated:** JSDoc comments updated for all exported functions/classes, and the relevant sections of the documentation/README are updated.
-- [ ] **Reviewer Assigned:** A reviewer has been explicitly assigned.
-
-### Testing & Verification
-- [ ] **Unit Tests:** New unit tests have been added or existing tests updated to cover the changes.
-- [ ] **Test Passing:** All unit and integration tests pass successfully (`npm run test`).
-- [ ] **CI Passing:** The Continuous Integration pipeline is green.
-    [![CI Status](https://github.com/chirag127/OmniPublisher-MultiPlatform-Content-Syndicator/actions/workflows/ci.yml/badge.svg)](https://github.com/chirag127/OmniPublisher-MultiPlatform-Content-Syndicator/actions/workflows/ci.yml)
-
-### Security & Performance
-- [ ] **Security Review:** Changes introduce no new potential security vulnerabilities (e.g., API key exposure, unvalidated input).
-- [ ] **Performance Audit:** Changes do not introduce significant performance bottlenecks, especially concerning large file processing or synchronous API calls.
-
----
-
-## 🌟 Contributing Guidelines
-
-Review the full contribution standards before approval:
-[Contributing Guidelines](https://github.com/chirag127/OmniPublisher-MultiPlatform-Content-Syndicator/blob/main/.github/CONTRIBUTING.md)
+By submitting this pull request, I confirm that I have read and agree to the [Contributor Covenant Code of Conduct](https://github.com/chirag127/OmniPublish-Multi-Platform-Content-Distribution-Node-CLI-Tool/blob/main/CODE_OF_CONDUCT.md) and the [GPL-3.0 License](https://github.com/chirag127/OmniPublish-Multi-Platform-Content-Distribution-Node-CLI-Tool/blob/main/LICENSE).
